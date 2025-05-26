@@ -41,7 +41,8 @@ La herramienta está dividida en módulos organizados por temas fundamentales.
 (Opcional) Crea y activa un entorno virtual:
 
 python -m venv venv
-source venv/bin/activate  # En Windows: venv\Scripts\activate
+ # En Windows: 
+ venv\Scripts\activate
 
 Instala las dependencias:
 
@@ -52,4 +53,4 @@ pip install -r requirements.txt
 Ejecuta el siguiente comando para iniciar la aplicación:
 
 streamlit run app.py
-Asegúrate de reemplazar app.py con el nombre del archivo principal de tu app si es diferente.
+Asegúrate de reemplazar app.py 
