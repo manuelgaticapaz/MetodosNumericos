@@ -27,7 +27,7 @@ module_choice = st.sidebar.radio(
 )
 
 st.sidebar.markdown("---")
-st.sidebar.info("Desarrollado por 'Los lisiados'")
+st.sidebar.info("Desarrollado por el grupo 'Los lisiados'")
 
 
 # --- Contenido principal basado en la selección del módulo ---
