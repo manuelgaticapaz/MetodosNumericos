@@ -2,7 +2,7 @@
 
 Este repositorio contiene una aplicación web interactiva desarrollada con **Streamlit** que implementa diversos **métodos numéricos** usados en matemáticas aplicadas, física e ingeniería. 
 La herramienta está dividida en módulos organizados por temas fundamentales.
-
+Link en linea: https://metodosnumericoslisi.streamlit.app/
 ---
 
 ## 📚 Módulos Disponibles
